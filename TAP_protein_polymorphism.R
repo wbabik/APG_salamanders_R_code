@@ -128,7 +128,7 @@ TAP_positions <- bind_rows(temp) %>% select(-aa)
 aa_pol <- aa_fr_sp %>% left_join(TAP_positions, by = c("species", "gene_sym", "aa_pos")) %>% 
   filter(freq_ind >= 0.1) %>% mutate(aa = str_to_upper(aa))
 
-saveRDS(aa_pol, "TAP12_aa_polymorphism")
+saveRDS(aa_pol, "TAP12_aa_polymorphism.rds")
 
 TAP1_funct <- c(49,57,134,225,228,229,239,256)
 TAP2_funct <- c(230,231,232,234,235,258)
