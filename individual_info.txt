@@ -1,0 +1,1102 @@
+id	genus	species	subspecies	locality	country
+14829	Ambystoma	texanum		Waco	USA
+14830	Ambystoma	texanum		Waco	USA
+14831	Ambystoma	texanum		Waco	USA
+14832	Ambystoma	texanum		Waco	USA
+14833	Ambystoma	texanum		Waco	USA
+14834	Ambystoma	texanum		Waco	USA
+14835	Ambystoma	texanum		Waco	USA
+14836	Ambystoma	texanum		Waco	USA
+14837	Ambystoma	texanum		Waco	USA
+14838	Ambystoma	texanum		Waco	USA
+14839	Ambystoma	texanum		Waco	USA
+14840	Ambystoma	texanum		Waco	USA
+14841	Ambystoma	texanum		Waco	USA
+14842	Ambystoma	texanum		Waco	USA
+14843	Ambystoma	texanum		Waco	USA
+14844	Ambystoma	texanum		Mexico	USA
+14845	Ambystoma	texanum		Mexico	USA
+14846	Ambystoma	texanum		Mexico	USA
+14847	Ambystoma	texanum		Mexico	USA
+14848	Ambystoma	texanum		Mexico	USA
+14849	Ambystoma	texanum		Mexico	USA
+14851	Ambystoma	texanum		Mexico	USA
+14852	Ambystoma	texanum		Mexico	USA
+14853	Ambystoma	texanum		Mexico	USA
+14854	Ambystoma	texanum		Mexico	USA
+14855	Ambystoma	texanum		Mexico	USA
+14856	Ambystoma	texanum		Mexico	USA
+14857	Ambystoma	texanum		Mexico	USA
+14858	Ambystoma	texanum		Mexico	USA
+14799	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14800	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14801	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14802	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14803	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14804	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14805	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14806	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14807	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14808	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14809	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14810	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14811	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14812	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14813	Ambystoma	tigrinum	mavortium	Cassoday	USA
+14814	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14815	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14816	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14817	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14818	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14819	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14820	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14821	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14822	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14823	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14824	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14825	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14826	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14827	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14828	Ambystoma	tigrinum	mavortium	Grand Island	USA
+14202	Andrias	davidianus		Not_Applicable	Poland
+14203	Andrias	davidianus		Not_Applicable	Poland
+14204	Andrias	davidianus		Not_Applicable	Poland
+14205	Andrias	davidianus		Not_Applicable	Poland
+14206	Andrias	davidianus		Not_Applicable	Poland
+14207	Andrias	davidianus		Not_Applicable	Poland
+14208	Andrias	davidianus		Not_Applicable	Poland
+14209	Andrias	davidianus		Not_Applicable	Poland
+14210	Andrias	davidianus		Not_Applicable	Poland
+14211	Andrias	davidianus		Not_Applicable	Poland
+14212	Andrias	davidianus		Not_Applicable	Poland
+14213	Andrias	davidianus		Not_Applicable	Poland
+14214	Andrias	davidianus		Not_Applicable	Poland
+14215	Andrias	davidianus		Not_Applicable	Poland
+14216	Andrias	davidianus		Not_Applicable	Poland
+14859	Batrachoseps	attenuatus		San Rafael1	USA
+14860	Batrachoseps	attenuatus		San Rafael1	USA
+14861	Batrachoseps	attenuatus		San Rafael1	USA
+14862	Batrachoseps	attenuatus		San Rafael1	USA
+14863	Batrachoseps	attenuatus		San Rafael1	USA
+14864	Batrachoseps	attenuatus		San Rafael1	USA
+14865	Batrachoseps	attenuatus		San Rafael1	USA
+14866	Batrachoseps	attenuatus		San Rafael1	USA
+14867	Batrachoseps	attenuatus		San Rafael1	USA
+14868	Batrachoseps	attenuatus		San Rafael1	USA
+14869	Batrachoseps	attenuatus		San Rafael1	USA
+14870	Batrachoseps	attenuatus		San Rafael1	USA
+14871	Batrachoseps	attenuatus		San Rafael1	USA
+14872	Batrachoseps	attenuatus		San Rafael1	USA
+14873	Batrachoseps	attenuatus		San Rafael1	USA
+14874	Batrachoseps	attenuatus		San Rafael2	USA
+14875	Batrachoseps	attenuatus		San Rafael2	USA
+14876	Batrachoseps	attenuatus		San Rafael2	USA
+14877	Batrachoseps	attenuatus		San Rafael2	USA
+14878	Batrachoseps	attenuatus		San Rafael2	USA
+14879	Batrachoseps	attenuatus		San Rafael2	USA
+14880	Batrachoseps	attenuatus		San Rafael2	USA
+14881	Batrachoseps	attenuatus		San Rafael2	USA
+14882	Batrachoseps	attenuatus		San Rafael2	USA
+14883	Batrachoseps	attenuatus		San Rafael2	USA
+14884	Batrachoseps	attenuatus		San Rafael2	USA
+14885	Batrachoseps	attenuatus		San Rafael2	USA
+14886	Batrachoseps	attenuatus		San Rafael2	USA
+14887	Batrachoseps	attenuatus		San Rafael2	USA
+14888	Batrachoseps	attenuatus		San Rafael2	USA
+14889	Batrachoseps	nigriventris		Mugu State Park	USA
+14890	Batrachoseps	nigriventris		Mugu State Park	USA
+14891	Batrachoseps	nigriventris		Mugu State Park	USA
+14892	Batrachoseps	nigriventris		Mugu State Park	USA
+14893	Batrachoseps	nigriventris		Mugu State Park	USA
+14894	Batrachoseps	nigriventris		Mugu State Park	USA
+14896	Batrachoseps	nigriventris		Mugu State Park	USA
+14897	Batrachoseps	nigriventris		Mugu State Park	USA
+14898	Batrachoseps	nigriventris		Mugu State Park	USA
+14899	Batrachoseps	nigriventris		Mugu State Park	USA
+14900	Batrachoseps	nigriventris		Mugu State Park	USA
+14901	Batrachoseps	nigriventris		Mugu State Park	USA
+14902	Batrachoseps	nigriventris		Mugu State Park	USA
+14904	Batrachoseps	nigriventris		Mugu State Park	USA
+14905	Batrachoseps	nigriventris		Mugu State Park	USA
+14907	Batrachoseps	nigriventris		Mugu State Park	USA
+14908	Batrachoseps	nigriventris		Mugu State Park	USA
+14909	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14910	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14911	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14912	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14913	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14914	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14915	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14916	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14917	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14918	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14919	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14920	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14921	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14922	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+14923	Batrachoseps	nigriventris		Stunt Ranch Reserve	USA
+12339	Hydromantes	italicus		Borgo a Mozzano	Italy
+12340	Hydromantes	italicus		Borgo a Mozzano	Italy
+12341	Hydromantes	italicus		Borgo a Mozzano	Italy
+12342	Hydromantes	italicus		Borgo a Mozzano	Italy
+12343	Hydromantes	italicus		Borgo a Mozzano	Italy
+12344	Hydromantes	italicus		Borgo a Mozzano	Italy
+12345	Hydromantes	italicus		Borgo a Mozzano	Italy
+12346	Hydromantes	italicus		Borgo a Mozzano	Italy
+12347	Hydromantes	italicus		Borgo a Mozzano	Italy
+12348	Hydromantes	italicus		Borgo a Mozzano	Italy
+12349	Hydromantes	italicus		Borgo a Mozzano	Italy
+12350	Hydromantes	italicus		Borgo a Mozzano	Italy
+12351	Hydromantes	italicus		Borgo a Mozzano	Italy
+12352	Hydromantes	italicus		Borgo a Mozzano	Italy
+12353	Hydromantes	italicus		Borgo a Mozzano	Italy
+12354	Hydromantes	italicus		Borgo a Mozzano	Italy
+12355	Hydromantes	italicus		Borgo a Mozzano	Italy
+12371	Hydromantes	italicus		Vaiano	Italy
+12372	Hydromantes	italicus		Vaiano	Italy
+12373	Hydromantes	italicus		Vaiano	Italy
+12374	Hydromantes	italicus		Vaiano	Italy
+12375	Hydromantes	italicus		Vaiano	Italy
+12376	Hydromantes	italicus		Vaiano	Italy
+12377	Hydromantes	italicus		Vaiano	Italy
+12378	Hydromantes	italicus		Vaiano	Italy
+12379	Hydromantes	italicus		Vaiano	Italy
+12380	Hydromantes	italicus		Vaiano	Italy
+12381	Hydromantes	italicus		Vaiano	Italy
+12382	Hydromantes	italicus		Vaiano	Italy
+12383	Hydromantes	italicus		Vaiano	Italy
+12384	Hydromantes	italicus		Vaiano	Italy
+12387	Hydromantes	italicus		Vaiano	Italy
+12388	Hydromantes	italicus		Vaiano	Italy
+12356	Hydromantes	strinatii		Preli	Italy
+12357	Hydromantes	strinatii		Preli	Italy
+12358	Hydromantes	strinatii		Preli	Italy
+12359	Hydromantes	strinatii		Preli	Italy
+12360	Hydromantes	strinatii		Preli	Italy
+12361	Hydromantes	strinatii		Preli	Italy
+12362	Hydromantes	strinatii		Preli	Italy
+12363	Hydromantes	strinatii		Preli	Italy
+12364	Hydromantes	strinatii		Preli	Italy
+12365	Hydromantes	strinatii		Preli	Italy
+12366	Hydromantes	strinatii		Preli	Italy
+12367	Hydromantes	strinatii		Preli	Italy
+12368	Hydromantes	strinatii		Preli	Italy
+12369	Hydromantes	strinatii		Preli	Italy
+12370	Hydromantes	strinatii		Preli	Italy
+12389	Hydromantes	strinatii		Calice Ligure	Italy
+12392	Hydromantes	strinatii		Calice Ligure	Italy
+12393	Hydromantes	strinatii		Calice Ligure	Italy
+12394	Hydromantes	strinatii		Calice Ligure	Italy
+12395	Hydromantes	strinatii		Calice Ligure	Italy
+12396	Hydromantes	strinatii		Calice Ligure	Italy
+12397	Hydromantes	strinatii		Calice Ligure	Italy
+12398	Hydromantes	strinatii		Calice Ligure	Italy
+12399	Hydromantes	strinatii		Calice Ligure	Italy
+12400	Hydromantes	strinatii		Calice Ligure	Italy
+12401	Hydromantes	strinatii		Calice Ligure	Italy
+12402	Hydromantes	strinatii		Calice Ligure	Italy
+12403	Hydromantes	strinatii		Calice Ligure	Italy
+12488	Hynobius	leechii		Geumsan	South Korea
+12489	Hynobius	leechii		Geumsan	South Korea
+12490	Hynobius	leechii		Geumsan	South Korea
+12491	Hynobius	leechii		Geumsan	South Korea
+12492	Hynobius	leechii		Geumsan	South Korea
+12493	Hynobius	leechii		Geumsan	South Korea
+12494	Hynobius	leechii		Geumsan	South Korea
+12495	Hynobius	leechii		Geumsan	South Korea
+12496	Hynobius	leechii		Geumsan	South Korea
+12497	Hynobius	leechii		Geumsan	South Korea
+12498	Hynobius	leechii		Wansan-Gu	South Korea
+12499	Hynobius	leechii		Wansan-Gu	South Korea
+12500	Hynobius	leechii		Wansan-Gu	South Korea
+12501	Hynobius	leechii		Wansan-Gu	South Korea
+12502	Hynobius	leechii		Wansan-Gu	South Korea
+12503	Hynobius	leechii		Wansan-Gu	South Korea
+12504	Hynobius	leechii		Wansan-Gu	South Korea
+12505	Hynobius	leechii		Wansan-Gu	South Korea
+12506	Hynobius	leechii		Wansan-Gu	South Korea
+12507	Hynobius	leechii		Wansan-Gu	South Korea
+11857	Hynobius	retardatus		Hakodate	Japan
+11858	Hynobius	retardatus		Hakodate	Japan
+11859	Hynobius	retardatus		Hakodate	Japan
+11860	Hynobius	retardatus		Hakodate	Japan
+11861	Hynobius	retardatus		Hakodate	Japan
+11862	Hynobius	retardatus		Hakodate	Japan
+11863	Hynobius	retardatus		Hakodate	Japan
+11864	Hynobius	retardatus		Hakodate	Japan
+11865	Hynobius	retardatus		Hakodate	Japan
+11866	Hynobius	retardatus		Hakodate	Japan
+11867	Hynobius	retardatus		Hakodate	Japan
+11868	Hynobius	retardatus		Hakodate	Japan
+11869	Hynobius	retardatus		Hakodate	Japan
+11870	Hynobius	retardatus		Hakodate	Japan
+11871	Hynobius	retardatus		Hakodate	Japan
+11872	Hynobius	retardatus		Hakodate	Japan
+11873	Hynobius	retardatus		Hakodate	Japan
+11874	Hynobius	retardatus		Hakodate	Japan
+11875	Hynobius	retardatus		Hakodate	Japan
+11876	Hynobius	retardatus		Hakodate	Japan
+11917	Hynobius	retardatus		Erimo	Japan
+11918	Hynobius	retardatus		Erimo	Japan
+11919	Hynobius	retardatus		Erimo	Japan
+11920	Hynobius	retardatus		Erimo	Japan
+11921	Hynobius	retardatus		Erimo	Japan
+11922	Hynobius	retardatus		Erimo	Japan
+11923	Hynobius	retardatus		Erimo	Japan
+11924	Hynobius	retardatus		Erimo	Japan
+11925	Hynobius	retardatus		Erimo	Japan
+11926	Hynobius	retardatus		Erimo	Japan
+11927	Hynobius	retardatus		Erimo	Japan
+11928	Hynobius	retardatus		Erimo	Japan
+11929	Hynobius	retardatus		Erimo	Japan
+11930	Hynobius	retardatus		Erimo	Japan
+11931	Hynobius	retardatus		Erimo	Japan
+11932	Hynobius	retardatus		Erimo	Japan
+11933	Hynobius	retardatus		Erimo	Japan
+11934	Hynobius	retardatus		Erimo	Japan
+11935	Hynobius	retardatus		Erimo	Japan
+11936	Hynobius	retardatus		Erimo	Japan
+11947	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11948	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11949	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11950	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11951	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11952	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11953	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11954	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11955	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11956	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11957	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11958	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11959	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11960	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11961	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11962	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11963	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11964	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11966	Hynobius	tokyoensis		Yokosuka-shi	Japan
+11987	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11988	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11989	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11990	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11991	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11992	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11993	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11994	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11995	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11996	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11997	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11998	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+11999	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+12000	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+12001	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+12002	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+12003	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+12004	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+12005	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+12006	Hynobius	tokyoensis		Kitaibaraki-shi	Japan
+3766	Ichthyosaura	alpestris		Rzyki	Poland
+3767	Ichthyosaura	alpestris		Rzyki	Poland
+3768	Ichthyosaura	alpestris		Rzyki	Poland
+3769	Ichthyosaura	alpestris		Rzyki	Poland
+3770	Ichthyosaura	alpestris		Rzyki	Poland
+3771	Ichthyosaura	alpestris		Rzyki	Poland
+3772	Ichthyosaura	alpestris		Rzyki	Poland
+3773	Ichthyosaura	alpestris		Rzyki	Poland
+3774	Ichthyosaura	alpestris		Rzyki	Poland
+3775	Ichthyosaura	alpestris		Rzyki	Poland
+3776	Ichthyosaura	alpestris		Rzyki	Poland
+3777	Ichthyosaura	alpestris		Rzyki	Poland
+3778	Ichthyosaura	alpestris		Rzyki	Poland
+3779	Ichthyosaura	alpestris		Rzyki	Poland
+3780	Ichthyosaura	alpestris		Rzyki	Poland
+10853	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10854	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10855	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10856	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10857	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10858	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10859	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10860	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10861	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10862	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10863	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10864	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10865	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10866	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+10867	Ichthyosaura	alpestris		Turyi Remety	Ukraine
+12314	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12315	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12316	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12317	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12318	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12319	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12320	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12321	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12322	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12323	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12324	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12325	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12326	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12327	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12328	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12329	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12330	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12331	Ichthyosaura	alpestris		Lloroza Lake	Spain
+12819	Lissotriton	boscai		Navia	Spain
+12820	Lissotriton	boscai		Navia	Spain
+12821	Lissotriton	boscai		Navia	Spain
+12822	Lissotriton	boscai		Navia	Spain
+12823	Lissotriton	boscai		Navia	Spain
+12824	Lissotriton	boscai		Navia	Spain
+12825	Lissotriton	boscai		Navia	Spain
+12826	Lissotriton	boscai		Navia	Spain
+12827	Lissotriton	boscai		Navia	Spain
+12828	Lissotriton	boscai		Navia	Spain
+12829	Lissotriton	boscai		Navia	Spain
+12830	Lissotriton	boscai		Navia	Spain
+12831	Lissotriton	boscai		Navia	Spain
+12832	Lissotriton	boscai		Navia	Spain
+12833	Lissotriton	boscai		Navia	Spain
+12834	Lissotriton	boscai		Navia	Spain
+12835	Lissotriton	boscai		Navia	Spain
+12836	Lissotriton	boscai		Navia	Spain
+12837	Lissotriton	boscai		Navia	Spain
+12838	Lissotriton	boscai		Navia	Spain
+12840	Lissotriton	boscai		Lamuño	Spain
+12841	Lissotriton	boscai		Lamuño	Spain
+12842	Lissotriton	boscai		Lamuño	Spain
+12843	Lissotriton	boscai		Lamuño	Spain
+12844	Lissotriton	boscai		Lamuño	Spain
+12845	Lissotriton	boscai		Lamuño	Spain
+12846	Lissotriton	boscai		Lamuño	Spain
+12847	Lissotriton	boscai		Lamuño	Spain
+12848	Lissotriton	boscai		Lamuño	Spain
+12849	Lissotriton	boscai		Lamuño	Spain
+12850	Lissotriton	boscai		Lamuño	Spain
+12851	Lissotriton	boscai		Lamuño	Spain
+12852	Lissotriton	boscai		Lamuño	Spain
+12853	Lissotriton	boscai		Lamuño	Spain
+12854	Lissotriton	boscai		Lamuño	Spain
+12855	Lissotriton	boscai		Lamuño	Spain
+12856	Lissotriton	boscai		Lamuño	Spain
+12857	Lissotriton	boscai		Lamuño	Spain
+12858	Lissotriton	boscai		Lamuño	Spain
+12859	Lissotriton	boscai		Lamuño	Spain
+8415	Lissotriton	helveticus		Jublain2	France
+8416	Lissotriton	helveticus		Jublain2	France
+8417	Lissotriton	helveticus		Jublain2	France
+8418	Lissotriton	helveticus		Jublain2	France
+8419	Lissotriton	helveticus		Jublain2	France
+8420	Lissotriton	helveticus		Jublain2	France
+8421	Lissotriton	helveticus		Jublain2	France
+8422	Lissotriton	helveticus		Jublain2	France
+8423	Lissotriton	helveticus		Jublain2	France
+8424	Lissotriton	helveticus		Jublain2	France
+8425	Lissotriton	helveticus		Jublain2	France
+8426	Lissotriton	helveticus		Jublain2	France
+8427	Lissotriton	helveticus		Jublain2	France
+8428	Lissotriton	helveticus		Jublain2	France
+8429	Lissotriton	helveticus		Jublain2	France
+8430	Lissotriton	helveticus		Jublain2	France
+8431	Lissotriton	helveticus		Jublain2	France
+8432	Lissotriton	helveticus		Jublain2	France
+8433	Lissotriton	helveticus		Jublain2	France
+8434	Lissotriton	helveticus		Jublain2	France
+12798	Lissotriton	helveticus		La Manjoya	Spain
+12799	Lissotriton	helveticus		La Manjoya	Spain
+12800	Lissotriton	helveticus		La Manjoya	Spain
+12801	Lissotriton	helveticus		La Manjoya	Spain
+12802	Lissotriton	helveticus		La Manjoya	Spain
+12803	Lissotriton	helveticus		La Manjoya	Spain
+12804	Lissotriton	helveticus		La Manjoya	Spain
+12805	Lissotriton	helveticus		La Manjoya	Spain
+12806	Lissotriton	helveticus		La Manjoya	Spain
+12807	Lissotriton	helveticus		La Manjoya	Spain
+12808	Lissotriton	helveticus		La Manjoya	Spain
+12809	Lissotriton	helveticus		La Manjoya	Spain
+12810	Lissotriton	helveticus		La Manjoya	Spain
+12811	Lissotriton	helveticus		La Manjoya	Spain
+12812	Lissotriton	helveticus		La Manjoya	Spain
+12813	Lissotriton	helveticus		La Manjoya	Spain
+12814	Lissotriton	helveticus		La Manjoya	Spain
+12815	Lissotriton	helveticus		La Manjoya	Spain
+12816	Lissotriton	helveticus		La Manjoya	Spain
+12817	Lissotriton	helveticus		La Manjoya	Spain
+13639	Lissotriton	italicus		Guardiaregia	Italy
+13640	Lissotriton	italicus		Guardiaregia	Italy
+13641	Lissotriton	italicus		Guardiaregia	Italy
+13642	Lissotriton	italicus		Guardiaregia	Italy
+13643	Lissotriton	italicus		Guardiaregia	Italy
+13644	Lissotriton	italicus		Guardiaregia	Italy
+13645	Lissotriton	italicus		Guardiaregia	Italy
+13646	Lissotriton	italicus		Guardiaregia	Italy
+13647	Lissotriton	italicus		Guardiaregia	Italy
+13648	Lissotriton	italicus		Guardiaregia	Italy
+13649	Lissotriton	italicus		Guardiaregia	Italy
+13650	Lissotriton	italicus		Guardiaregia	Italy
+13651	Lissotriton	italicus		Guardiaregia	Italy
+13652	Lissotriton	italicus		Guardiaregia	Italy
+13653	Lissotriton	italicus		Guardiaregia	Italy
+13654	Lissotriton	italicus		Guardiaregia	Italy
+13655	Lissotriton	italicus		Gorga	Italy
+13656	Lissotriton	italicus		Gorga	Italy
+13657	Lissotriton	italicus		Gorga	Italy
+13658	Lissotriton	italicus		Gorga	Italy
+13659	Lissotriton	italicus		Gorga	Italy
+13660	Lissotriton	italicus		Gorga	Italy
+13661	Lissotriton	italicus		Gorga	Italy
+13662	Lissotriton	italicus		Gorga	Italy
+13663	Lissotriton	italicus		Gorga	Italy
+13664	Lissotriton	italicus		Gorga	Italy
+13665	Lissotriton	italicus		Gorga	Italy
+13666	Lissotriton	italicus		Gorga	Italy
+13667	Lissotriton	italicus		Gorga	Italy
+13668	Lissotriton	italicus		Gorga	Italy
+13669	Lissotriton	italicus		Gorga	Italy
+12860	Ommatotriton	nesterovi		Hacilar3	Turkey
+12861	Ommatotriton	nesterovi		Hacilar3	Turkey
+12862	Ommatotriton	nesterovi		Hacilar3	Turkey
+12863	Ommatotriton	nesterovi		Hacilar3	Turkey
+12864	Ommatotriton	nesterovi		Hacilar3	Turkey
+12865	Ommatotriton	nesterovi		Hacilar3	Turkey
+12866	Ommatotriton	nesterovi		Hacilar3	Turkey
+12867	Ommatotriton	nesterovi		Hacilar3	Turkey
+12868	Ommatotriton	nesterovi		Hacilar3	Turkey
+12869	Ommatotriton	nesterovi		Hacilar3	Turkey
+12870	Ommatotriton	nesterovi		Hacilar3	Turkey
+12871	Ommatotriton	nesterovi		Hacilar3	Turkey
+12872	Ommatotriton	nesterovi		Hacilar3	Turkey
+12873	Ommatotriton	nesterovi		Hacilar3	Turkey
+12874	Ommatotriton	nesterovi		Hacilar3	Turkey
+12875	Ommatotriton	nesterovi		Hacilar3	Turkey
+12876	Ommatotriton	nesterovi		Hacilar3	Turkey
+12877	Ommatotriton	nesterovi		Hacilar3	Turkey
+12878	Ommatotriton	nesterovi		Hacilar3	Turkey
+12879	Ommatotriton	nesterovi		Hacilar3	Turkey
+12880	Ommatotriton	nesterovi		Cebeli	Turkey
+12881	Ommatotriton	nesterovi		Cebeli	Turkey
+12882	Ommatotriton	nesterovi		Cebeli	Turkey
+12883	Ommatotriton	nesterovi		Cebeli	Turkey
+12884	Ommatotriton	nesterovi		Cebeli	Turkey
+12885	Ommatotriton	nesterovi		Cebeli	Turkey
+12886	Ommatotriton	nesterovi		Cebeli	Turkey
+12887	Ommatotriton	nesterovi		Cebeli	Turkey
+12888	Ommatotriton	nesterovi		Cebeli	Turkey
+12889	Ommatotriton	nesterovi		Cebeli	Turkey
+12890	Ommatotriton	nesterovi		Cebeli	Turkey
+12891	Ommatotriton	nesterovi		Cebeli	Turkey
+12892	Ommatotriton	nesterovi		Cebeli	Turkey
+12893	Ommatotriton	nesterovi		Cebeli	Turkey
+12894	Ommatotriton	nesterovi		Cebeli	Turkey
+12895	Ommatotriton	nesterovi		Cebeli	Turkey
+12896	Ommatotriton	nesterovi		Cebeli	Turkey
+12897	Ommatotriton	nesterovi		Cebeli	Turkey
+12898	Ommatotriton	nesterovi		Cebeli	Turkey
+12899	Ommatotriton	nesterovi		Cebeli	Turkey
+12940	Ommatotriton	ophryticus		Karagöl2	Turkey
+12941	Ommatotriton	ophryticus		Karagöl2	Turkey
+12942	Ommatotriton	ophryticus		Karagöl2	Turkey
+12943	Ommatotriton	ophryticus		Karagöl2	Turkey
+12944	Ommatotriton	ophryticus		Karagöl2	Turkey
+12945	Ommatotriton	ophryticus		Karagöl2	Turkey
+12946	Ommatotriton	ophryticus		Karagöl2	Turkey
+12947	Ommatotriton	ophryticus		Karagöl2	Turkey
+12948	Ommatotriton	ophryticus		Karagöl2	Turkey
+12949	Ommatotriton	ophryticus		Karagöl2	Turkey
+12950	Ommatotriton	ophryticus		Karagöl2	Turkey
+12951	Ommatotriton	ophryticus		Karagöl2	Turkey
+12952	Ommatotriton	ophryticus		Karagöl2	Turkey
+12953	Ommatotriton	ophryticus		Karagöl2	Turkey
+12954	Ommatotriton	ophryticus		Karagöl2	Turkey
+12955	Ommatotriton	ophryticus		Karagöl2	Turkey
+12956	Ommatotriton	ophryticus		Karagöl2	Turkey
+12957	Ommatotriton	ophryticus		Karagöl2	Turkey
+12958	Ommatotriton	ophryticus		Karagöl2	Turkey
+12959	Ommatotriton	ophryticus		Karagöl2	Turkey
+12960	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12961	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12962	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12963	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12964	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12965	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12966	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12967	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12968	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12969	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12970	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12971	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12972	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12973	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12974	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12975	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12976	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12977	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12978	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12979	Ommatotriton	ophryticus		Köprüyaka	Turkey
+12508	Pleurodeles	waltl		Valdemanco	Spain
+12509	Pleurodeles	waltl		Valdemanco	Spain
+12510	Pleurodeles	waltl		Valdemanco	Spain
+12511	Pleurodeles	waltl		Valdemanco	Spain
+12512	Pleurodeles	waltl		Valdemanco	Spain
+12515	Pleurodeles	waltl		Valdemanco	Spain
+12516	Pleurodeles	waltl		Valdemanco	Spain
+12517	Pleurodeles	waltl		Valdemanco	Spain
+12518	Pleurodeles	waltl		Valdemanco	Spain
+12519	Pleurodeles	waltl		Valdemanco	Spain
+12520	Pleurodeles	waltl		Valdemanco	Spain
+12521	Pleurodeles	waltl		Valdemanco	Spain
+12522	Pleurodeles	waltl		Valdemanco	Spain
+12523	Pleurodeles	waltl		Valdemanco	Spain
+12524	Pleurodeles	waltl		Valdemanco	Spain
+12525	Pleurodeles	waltl		Valdemanco	Spain
+12526	Pleurodeles	waltl		Valdemanco	Spain
+12527	Pleurodeles	waltl		Valdemanco	Spain
+12528	Pleurodeles	waltl		Valdemanco	Spain
+12529	Pleurodeles	waltl		Valdemanco	Spain
+12762	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12763	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12764	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12765	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12766	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12767	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12768	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12769	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12770	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12771	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12777	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12778	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12779	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12783	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12784	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12785	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12786	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12787	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12796	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12797	Pleurodeles	waltl		Hoyo de Manzanares	Spain
+12257	Salamandra	salamandra		Valdesamario	Spain
+12258	Salamandra	salamandra		Valdesamario	Spain
+12259	Salamandra	salamandra		Valdesamario	Spain
+12260	Salamandra	salamandra		Valdesamario	Spain
+12261	Salamandra	salamandra		Valdesamario	Spain
+12262	Salamandra	salamandra		Valdesamario	Spain
+12263	Salamandra	salamandra		Valdesamario	Spain
+12264	Salamandra	salamandra		Valdesamario	Spain
+12265	Salamandra	salamandra		Valdesamario	Spain
+12266	Salamandra	salamandra		Valdesamario	Spain
+12267	Salamandra	salamandra		Valdesamario	Spain
+12268	Salamandra	salamandra		Fito	Spain
+12269	Salamandra	salamandra		Fito	Spain
+12270	Salamandra	salamandra		Fito	Spain
+12271	Salamandra	salamandra		Fito	Spain
+12272	Salamandra	salamandra		Fito	Spain
+12273	Salamandra	salamandra		Fito	Spain
+12274	Salamandra	salamandra		Fito	Spain
+12275	Salamandra	salamandra		Fito	Spain
+12276	Salamandra	salamandra		Fito	Spain
+12277	Salamandra	salamandra		Fito	Spain
+12278	Salamandra	salamandra		Fito	Spain
+12279	Salamandra	salamandra		Fito	Spain
+12280	Salamandra	salamandra		Fito	Spain
+12281	Salamandra	salamandra		Fito	Spain
+12282	Salamandra	salamandra		Fito	Spain
+12283	Salamandra	salamandra		Fito	Spain
+12284	Salamandra	salamandra		Fito	Spain
+12285	Salamandra	salamandra		Fito	Spain
+12286	Salamandra	salamandra		Fito	Spain
+12287	Salamandra	salamandra		Fito	Spain
+12288	Salamandra	salamandra		Llerandi	Spain
+12289	Salamandra	salamandra		Llerandi	Spain
+12290	Salamandra	salamandra		Llerandi	Spain
+12291	Salamandra	salamandra		Llerandi	Spain
+12292	Salamandra	salamandra		Llerandi	Spain
+12293	Salamandra	salamandra		Llerandi	Spain
+12294	Salamandra	salamandra		Llerandi	Spain
+12295	Salamandra	salamandra		Llerandi	Spain
+12296	Salamandra	salamandra		Llerandi	Spain
+12297	Salamandra	salamandra		Llerandi	Spain
+12298	Salamandra	salamandra		Llerandi	Spain
+12299	Salamandra	salamandra		Llerandi	Spain
+12300	Salamandra	salamandra		Llerandi	Spain
+12301	Salamandra	salamandra		Llerandi	Spain
+12302	Salamandra	salamandra		Llerandi	Spain
+12303	Salamandra	salamandra		Llerandi	Spain
+12304	Salamandra	salamandra		Llerandi	Spain
+12305	Salamandra	salamandra		Llerandi	Spain
+12306	Salamandra	salamandra		Llerandi	Spain
+12307	Salamandra	salamandra		Llerandi	Spain
+12429	Salamandra	salamandra		Valdesamario	Spain
+12430	Salamandra	salamandra		Valdesamario	Spain
+12431	Salamandra	salamandra		Valdesamario	Spain
+12432	Salamandra	salamandra		Valdesamario	Spain
+12433	Salamandra	salamandra		Valdesamario	Spain
+12434	Salamandra	salamandra		Valdesamario	Spain
+12435	Salamandra	salamandra		Valdesamario	Spain
+12436	Salamandra	salamandra		Valdesamario	Spain
+12437	Salamandra	salamandra		Valdesamario	Spain
+5073	Triturus	cristatus		Pomi	Romania
+5074	Triturus	cristatus		Pomi	Romania
+5075	Triturus	cristatus		Pomi	Romania
+5076	Triturus	cristatus		Pomi	Romania
+5077	Triturus	cristatus		Pomi	Romania
+5078	Triturus	cristatus		Pomi	Romania
+5079	Triturus	cristatus		Pomi	Romania
+5080	Triturus	cristatus		Pomi	Romania
+5081	Triturus	cristatus		Pomi	Romania
+5082	Triturus	cristatus		Pomi	Romania
+5083	Triturus	cristatus		Pomi	Romania
+5084	Triturus	cristatus		Pomi	Romania
+5085	Triturus	cristatus		Pomi	Romania
+5086	Triturus	cristatus		Pomi	Romania
+5087	Triturus	cristatus		Pomi	Romania
+5088	Triturus	cristatus		Pomi	Romania
+5089	Triturus	cristatus		Pomi	Romania
+5090	Triturus	cristatus		Pomi	Romania
+5091	Triturus	cristatus		Pomi	Romania
+5092	Triturus	cristatus		Pomi	Romania
+5093	Triturus	cristatus		Pomi	Romania
+5102	Triturus	cristatus		Strâmba	Romania
+5103	Triturus	cristatus		Strâmba	Romania
+5104	Triturus	cristatus		Strâmba	Romania
+5105	Triturus	cristatus		Strâmba	Romania
+5106	Triturus	cristatus		Strâmba	Romania
+5107	Triturus	cristatus		Strâmba	Romania
+5108	Triturus	cristatus		Strâmba	Romania
+5109	Triturus	cristatus		Strâmba	Romania
+5110	Triturus	cristatus		Strâmba	Romania
+5111	Triturus	cristatus		Strâmba	Romania
+5112	Triturus	cristatus		Strâmba	Romania
+5113	Triturus	cristatus		Strâmba	Romania
+5114	Triturus	cristatus		Strâmba	Romania
+5115	Triturus	cristatus		Strâmba	Romania
+5116	Triturus	cristatus		Strâmba	Romania
+5117	Triturus	cristatus		Strâmba	Romania
+5118	Triturus	cristatus		Strâmba	Romania
+5119	Triturus	cristatus		Strâmba	Romania
+13155	Triturus	dobrogicus		Ecka	Serbia
+13156	Triturus	dobrogicus		Ecka	Serbia
+13157	Triturus	dobrogicus		Ecka	Serbia
+13158	Triturus	dobrogicus		Ecka	Serbia
+13159	Triturus	dobrogicus		Ecka	Serbia
+13160	Triturus	dobrogicus		Ecka	Serbia
+13161	Triturus	dobrogicus		Ecka	Serbia
+13162	Triturus	dobrogicus		Ecka	Serbia
+13163	Triturus	dobrogicus		Ecka	Serbia
+13164	Triturus	dobrogicus		Ecka	Serbia
+13165	Triturus	dobrogicus		Ecka	Serbia
+13166	Triturus	dobrogicus		Ecka	Serbia
+13167	Triturus	dobrogicus		Ecka	Serbia
+13168	Triturus	dobrogicus		Ecka	Serbia
+13169	Triturus	dobrogicus		Senta	Serbia
+13170	Triturus	dobrogicus		Senta	Serbia
+13171	Triturus	dobrogicus		Senta	Serbia
+13172	Triturus	dobrogicus		Senta	Serbia
+13173	Triturus	dobrogicus		Senta	Serbia
+13174	Triturus	dobrogicus		Senta	Serbia
+13175	Triturus	dobrogicus		Senta	Serbia
+13176	Triturus	dobrogicus		Senta	Serbia
+13177	Triturus	dobrogicus		Senta	Serbia
+13178	Triturus	dobrogicus		Senta	Serbia
+13179	Triturus	dobrogicus		Senta	Serbia
+13180	Triturus	dobrogicus		Senta	Serbia
+13181	Triturus	dobrogicus		Senta	Serbia
+13182	Triturus	dobrogicus		Senta	Serbia
+4473	Triturus	ivanbureschi		Garnikovo2	Macedonia
+4474	Triturus	ivanbureschi		Garnikovo2	Macedonia
+4475	Triturus	ivanbureschi		Garnikovo2	Macedonia
+4476	Triturus	ivanbureschi		Garnikovo2	Macedonia
+4477	Triturus	ivanbureschi		Garnikovo2	Macedonia
+4478	Triturus	ivanbureschi		Garnikovo2	Macedonia
+4479	Triturus	ivanbureschi		Garnikovo2	Macedonia
+4480	Triturus	ivanbureschi		Garnikovo2	Macedonia
+4481	Triturus	ivanbureschi		Garnikovo2	Macedonia
+12980	Triturus	ivanbureschi		Saricaali	Turkey
+12981	Triturus	ivanbureschi		Saricaali	Turkey
+12982	Triturus	ivanbureschi		Saricaali	Turkey
+12983	Triturus	ivanbureschi		Saricaali	Turkey
+12984	Triturus	ivanbureschi		Saricaali	Turkey
+12985	Triturus	ivanbureschi		Saricaali	Turkey
+12986	Triturus	ivanbureschi		Saricaali	Turkey
+12987	Triturus	ivanbureschi		Saricaali	Turkey
+12988	Triturus	ivanbureschi		Saricaali	Turkey
+12990	Triturus	ivanbureschi		Saricaali	Turkey
+12991	Triturus	ivanbureschi		Saricaali	Turkey
+12992	Triturus	ivanbureschi		Saricaali	Turkey
+12993	Triturus	ivanbureschi		Saricaali	Turkey
+12995	Triturus	ivanbureschi		Saricaali	Turkey
+12997	Triturus	ivanbureschi		Saricaali	Turkey
+12999	Triturus	ivanbureschi		Saricaali	Turkey
+13000	Triturus	ivanbureschi		Davutköy	Turkey
+13001	Triturus	ivanbureschi		Davutköy	Turkey
+13002	Triturus	ivanbureschi		Davutköy	Turkey
+13003	Triturus	ivanbureschi		Davutköy	Turkey
+13004	Triturus	ivanbureschi		Davutköy	Turkey
+13005	Triturus	ivanbureschi		Davutköy	Turkey
+13006	Triturus	ivanbureschi		Davutköy	Turkey
+13007	Triturus	ivanbureschi		Davutköy	Turkey
+13008	Triturus	ivanbureschi		Davutköy	Turkey
+13009	Triturus	ivanbureschi		Davutköy	Turkey
+13010	Triturus	ivanbureschi		Davutköy	Turkey
+13011	Triturus	ivanbureschi		Davutköy	Turkey
+13012	Triturus	ivanbureschi		Davutköy	Turkey
+13013	Triturus	ivanbureschi		Davutköy	Turkey
+13014	Triturus	ivanbureschi		Davutköy	Turkey
+13015	Triturus	ivanbureschi		Davutköy	Turkey
+13016	Triturus	ivanbureschi		Davutköy	Turkey
+13017	Triturus	ivanbureschi		Davutköy	Turkey
+13018	Triturus	ivanbureschi		Davutköy	Turkey
+13019	Triturus	ivanbureschi		Davutköy	Turkey
+14683	Triturus	ivanbureschi		Saricaali	Turkey
+14684	Triturus	ivanbureschi		Saricaali	Turkey
+14685	Triturus	ivanbureschi		Saricaali	Turkey
+13080	Triturus	karelinii		Alushta	Ukraine
+13081	Triturus	karelinii		Alushta	Ukraine
+13082	Triturus	karelinii		Alushta	Ukraine
+13083	Triturus	karelinii		Alushta	Ukraine
+13084	Triturus	karelinii		Alushta	Ukraine
+13085	Triturus	karelinii		Alushta	Ukraine
+13086	Triturus	karelinii		Alushta	Ukraine
+13087	Triturus	karelinii		Alushta	Ukraine
+13088	Triturus	karelinii		Alushta	Ukraine
+13089	Triturus	karelinii		Alushta	Ukraine
+3813	Triturus	macedonicus		Kolibari	Macedonia
+3814	Triturus	macedonicus		Kolibari	Macedonia
+3815	Triturus	macedonicus		Kolibari	Macedonia
+3816	Triturus	macedonicus		Kolibari	Macedonia
+3817	Triturus	macedonicus		Kolibari	Macedonia
+3818	Triturus	macedonicus		Kolibari	Macedonia
+3819	Triturus	macedonicus		Kolibari	Macedonia
+3820	Triturus	macedonicus		Kolibari	Macedonia
+3821	Triturus	macedonicus		Kolibari	Macedonia
+3822	Triturus	macedonicus		Kolibari	Macedonia
+3823	Triturus	macedonicus		Kolibari	Macedonia
+4452	Triturus	macedonicus		Leskoec	Macedonia
+4453	Triturus	macedonicus		Leskoec	Macedonia
+4454	Triturus	macedonicus		Leskoec	Macedonia
+4455	Triturus	macedonicus		Leskoec	Macedonia
+4456	Triturus	macedonicus		Leskoec	Macedonia
+4457	Triturus	macedonicus		Leskoec	Macedonia
+4458	Triturus	macedonicus		Leskoec	Macedonia
+4459	Triturus	macedonicus		Leskoec	Macedonia
+4460	Triturus	macedonicus		Leskoec	Macedonia
+4461	Triturus	macedonicus		Leskoec	Macedonia
+4462	Triturus	macedonicus		Leskoec	Macedonia
+4463	Triturus	macedonicus		Leskoec	Macedonia
+4464	Triturus	macedonicus		Leskoec	Macedonia
+4465	Triturus	macedonicus		Leskoec	Macedonia
+4466	Triturus	macedonicus		Leskoec	Macedonia
+4467	Triturus	macedonicus		Leskoec	Macedonia
+4468	Triturus	macedonicus		Leskoec	Macedonia
+4469	Triturus	macedonicus		Leskoec	Macedonia
+4470	Triturus	macedonicus		Leskoec	Macedonia
+4471	Triturus	macedonicus		Leskoec	Macedonia
+13183	Triturus	marmoratus		Minas dos Carris	Portugal
+13184	Triturus	marmoratus		Minas dos Carris	Portugal
+13185	Triturus	marmoratus		Minas dos Carris	Portugal
+13186	Triturus	marmoratus		Minas dos Carris	Portugal
+13187	Triturus	marmoratus		Minas dos Carris	Portugal
+13188	Triturus	marmoratus		Minas dos Carris	Portugal
+13189	Triturus	marmoratus		Minas dos Carris	Portugal
+13190	Triturus	marmoratus		Minas dos Carris	Portugal
+13191	Triturus	marmoratus		Minas dos Carris	Portugal
+13192	Triturus	marmoratus		Minas dos Carris	Portugal
+13193	Triturus	marmoratus		Minas dos Carris	Portugal
+13194	Triturus	marmoratus		Minas dos Carris	Portugal
+13195	Triturus	marmoratus		Minas dos Carris	Portugal
+13196	Triturus	marmoratus		Minas dos Carris	Portugal
+13197	Triturus	marmoratus		Minas dos Carris	Portugal
+13198	Triturus	marmoratus		Minas dos Carris	Portugal
+13199	Triturus	marmoratus		Minas dos Carris	Portugal
+13200	Triturus	marmoratus		Minas dos Carris	Portugal
+13201	Triturus	marmoratus		Minas dos Carris	Portugal
+13202	Triturus	marmoratus		Minas dos Carris	Portugal
+13203	Triturus	marmoratus		Porto	Portugal
+13204	Triturus	marmoratus		Porto	Portugal
+13205	Triturus	marmoratus		Porto	Portugal
+13206	Triturus	marmoratus		Porto	Portugal
+13207	Triturus	marmoratus		Porto	Portugal
+13208	Triturus	marmoratus		Porto	Portugal
+13209	Triturus	marmoratus		Porto	Portugal
+13210	Triturus	marmoratus		Porto	Portugal
+13211	Triturus	marmoratus		Porto	Portugal
+13212	Triturus	marmoratus		Porto	Portugal
+13213	Triturus	marmoratus		Porto	Portugal
+13214	Triturus	marmoratus		Porto	Portugal
+13215	Triturus	marmoratus		Porto	Portugal
+13216	Triturus	marmoratus		Porto	Portugal
+13217	Triturus	marmoratus		Porto	Portugal
+13218	Triturus	marmoratus		Porto	Portugal
+13219	Triturus	marmoratus		Porto	Portugal
+12772	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12773	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12774	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12775	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12776	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12780	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12781	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12782	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12788	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12789	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12790	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12791	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12792	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12793	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12794	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+12795	Triturus	pygmaeus		Hoyo de Manzanares	Spain
+13235	Triturus	pygmaeus		Donana	Spain
+13236	Triturus	pygmaeus		Donana	Spain
+13237	Triturus	pygmaeus		Donana	Spain
+13238	Triturus	pygmaeus		Donana	Spain
+13239	Triturus	pygmaeus		Donana	Spain
+13240	Triturus	pygmaeus		Donana	Spain
+13241	Triturus	pygmaeus		Donana	Spain
+13242	Triturus	pygmaeus		Donana	Spain
+13243	Triturus	pygmaeus		Donana	Spain
+13244	Triturus	pygmaeus		Donana	Spain
+13245	Triturus	pygmaeus		Donana	Spain
+13246	Triturus	pygmaeus		Donana	Spain
+13247	Triturus	pygmaeus		Donana	Spain
+13248	Triturus	pygmaeus		Donana	Spain
+13249	Triturus	pygmaeus		Donana	Spain
+13250	Triturus	pygmaeus		Donana	Spain
+13251	Triturus	pygmaeus		Donana	Spain
+13252	Triturus	pygmaeus		Donana	Spain
+13253	Triturus	pygmaeus		Donana	Spain
+13254	Triturus	pygmaeus		Donana	Spain
+12479	Karsenia	koreana		Daejeon2	South Korea
+12478	Karsenia	koreana		Daejeon2	South Korea
+12465	Karsenia	koreana		Daejeon1	South Korea
+12464	Karsenia	koreana		Daejeon1	South Korea
+12462	Karsenia	koreana		Daejeon1	South Korea
+12482	Karsenia	koreana		Daejeon2	South Korea
+12481	Karsenia	koreana		Daejeon2	South Korea
+12477	Karsenia	koreana		Daejeon2	South Korea
+12458	Karsenia	koreana		Daejeon1	South Korea
+12459	Karsenia	koreana		Daejeon1	South Korea
+12460	Karsenia	koreana		Daejeon1	South Korea
+12461	Karsenia	koreana		Daejeon1	South Korea
+12463	Karsenia	koreana		Daejeon1	South Korea
+12476	Karsenia	koreana		Daejeon2	South Korea
+12475	Karsenia	koreana		Daejeon2	South Korea
+12474	Karsenia	koreana		Daejeon2	South Korea
+12473	Karsenia	koreana		Daejeon2	South Korea
+12472	Karsenia	koreana		Daejeon2	South Korea
+12471	Karsenia	koreana		Daejeon2	South Korea
+12470	Karsenia	koreana		Daejeon2	South Korea
+12469	Karsenia	koreana		Daejeon2	South Korea
+12468	Karsenia	koreana		Daejeon2	South Korea
+12467	Karsenia	koreana		Daejeon1	South Korea
+12466	Karsenia	koreana		Daejeon1	South Korea
+12480	Karsenia	koreana		Daejeon2	South Korea
+12453	Karsenia	koreana		Daejeon1	South Korea
+12454	Karsenia	koreana		Daejeon1	South Korea
+12455	Karsenia	koreana		Daejeon1	South Korea
+12456	Karsenia	koreana		Daejeon1	South Korea
+12457	Karsenia	koreana		Daejeon1	South Korea
+16032	Proteus	anguinus		Rupečica cave	Croatia
+16040	Proteus	anguinus		Rupečica cave	Croatia
+16042	Proteus	anguinus		Rupečica cave	Croatia
+16045	Proteus	anguinus		Rupečica cave	Croatia
+16049	Proteus	anguinus		Pincinova cave	Croatia
+16052	Proteus	anguinus		Pincinova cave	Croatia
+16054	Proteus	anguinus		Pincinova cave	Croatia
+16055	Proteus	anguinus		Pincinova cave	Croatia
+16057	Proteus	anguinus		Pincinova cave	Croatia
+16059	Proteus	anguinus		Pincinova cave	Croatia
+16062	Proteus	anguinus		Pincinova cave	Croatia
+16068	Proteus	anguinus		Vedrine cave	Croatia
+16069	Proteus	anguinus		Vedrine cave	Croatia
+16071	Proteus	anguinus		Vedrine cave	Croatia
+16073	Proteus	anguinus		Markarova cave	Croatia
+16074	Proteus	anguinus		Markarova cave	Croatia
+16075	Proteus	anguinus		Markarova cave	Croatia
+16078	Proteus	anguinus		Markarova cave	Croatia
+16081	Proteus	anguinus		Markarova cave	Croatia
+16086	Proteus	anguinus		Markarova cave	Croatia
+16088	Proteus	anguinus		Markarova cave	Croatia
+16089	Proteus	anguinus		Markarova cave	Croatia
+16091	Proteus	anguinus		Markarova cave	Croatia
+16041	Proteus	anguinus		Rupečica cave	Croatia
+16051	Proteus	anguinus		Pincinova cave	Croatia
+16066	Proteus	anguinus		Pincinova cave	Croatia
+16028	Proteus	anguinus		Rupečica cave	Croatia
+16085	Proteus	anguinus		Markarova cave	Croatia
+16039	Proteus	anguinus		Rupečica cave	Croatia
+16048	Proteus	anguinus		Pincinova cave	Croatia
+16083	Proteus	anguinus		Markarova cave	Croatia
+16035	Proteus	anguinus		Rupečica cave	Croatia
+16061	Proteus	anguinus		Pincinova cave	Croatia
+16047	Proteus	anguinus		Rupečica cave	Croatia
+16031	Proteus	anguinus		Rupečica cave	Croatia
+16050	Proteus	anguinus		Pincinova cave	Croatia
+16063	Proteus	anguinus		Pincinova cave	Croatia
+16084	Proteus	anguinus		Markarova cave	Croatia
+16065	Proteus	anguinus		Pincinova cave	Croatia
+16038	Proteus	anguinus		Rupečica cave	Croatia
+16082	Proteus	anguinus		Markarova cave	Croatia
+16034	Proteus	anguinus		Rupečica cave	Croatia
+16060	Proteus	anguinus		Pincinova cave	Croatia
+16046	Proteus	anguinus		Rupečica cave	Croatia
+16067	Proteus	anguinus		Pincinova cave	Croatia
+16030	Proteus	anguinus		Rupečica cave	Croatia
+16044	Proteus	anguinus		Rupečica cave	Croatia
+16036	Proteus	anguinus		Rupečica cave	Croatia
+16064	Proteus	anguinus		Pincinova cave	Croatia
+16077	Proteus	anguinus		Markarova cave	Croatia
+16092	Proteus	anguinus		Markarova cave	Croatia
+16037	Proteus	anguinus		Rupečica cave	Croatia
+16080	Proteus	anguinus		Markarova cave	Croatia
+16079	Proteus	anguinus		Markarova cave	Croatia
+16033	Proteus	anguinus		Rupečica cave	Croatia
+16058	Proteus	anguinus		Pincinova cave	Croatia
+16056	Proteus	anguinus		Pincinova cave	Croatia
+16070	Proteus	anguinus		Vedrine cave	Croatia
+16087	Proteus	anguinus		Markarova cave	Croatia
+16029	Proteus	anguinus		Rupečica cave	Croatia
+16043	Proteus	anguinus		Rupečica cave	Croatia
+16076	Proteus	anguinus		Markarova cave	Croatia
+16090	Proteus	anguinus		Markarova cave	Croatia
+16053	Proteus	anguinus		Pincinova cave	Croatia
+16072	Proteus	anguinus		Vedrine cave	Croatia
+15578	Eurycea	bislineata		Gurleyville	USA
+15580	Eurycea	bislineata		Gurleyville	USA
+15581	Eurycea	bislineata		Gurleyville	USA
+15582	Eurycea	bislineata		Gurleyville	USA
+15583	Eurycea	bislineata		Gurleyville	USA
+15584	Eurycea	bislineata		Gurleyville	USA
+15585	Eurycea	bislineata		Gurleyville	USA
+15586	Eurycea	bislineata		Gurleyville	USA
+15587	Eurycea	bislineata		Gurleyville	USA
+15588	Eurycea	bislineata		Gurleyville	USA
+15589	Eurycea	bislineata		Willington	USA
+15590	Eurycea	bislineata		Willington	USA
+15591	Eurycea	bislineata		Willington	USA
+15592	Eurycea	bislineata		Willington	USA
+15593	Eurycea	bislineata		Willington	USA
+15594	Eurycea	bislineata		Willington	USA
+15595	Eurycea	bislineata		Willington	USA
+15596	Eurycea	bislineata		Willington	USA
+15597	Eurycea	bislineata		Willington	USA
+15598	Eurycea	bislineata		Willington	USA
+15600	Eurycea	bislineata		Eastford	USA
+15601	Eurycea	bislineata		Eastford	USA
+15602	Eurycea	bislineata		Eastford	USA
+15603	Eurycea	bislineata		Eastford	USA
+15604	Eurycea	bislineata		Eastford	USA
+15605	Eurycea	bislineata		Eastford	USA
+15606	Eurycea	bislineata		Eastford	USA
+15607	Eurycea	bislineata		Eastford	USA
+15608	Eurycea	bislineata		Eastford	USA
+15609	Eurycea	bislineata		Watertown	USA
+15610	Eurycea	bislineata		Watertown	USA
+15611	Eurycea	bislineata		Watertown	USA
+15612	Eurycea	bislineata		Watertown	USA
+15613	Eurycea	bislineata		Watertown	USA
+15614	Eurycea	bislineata		Watertown	USA
+15615	Eurycea	bislineata		Watertown	USA
+15616	Eurycea	bislineata		Watertown	USA
+15617	Eurycea	bislineata		Watertown	USA
+15618	Eurycea	bislineata		Willington2	USA
+15619	Eurycea	bislineata		Willington2	USA
+15620	Eurycea	bislineata		Willington2	USA
+15621	Eurycea	bislineata		Willington2	USA
+15622	Eurycea	bislineata		Willington2	USA
+15623	Eurycea	bislineata		Willington2	USA
+15624	Eurycea	bislineata		Willington2	USA
+15625	Eurycea	bislineata		Willington2	USA
+15626	Eurycea	bislineata		Willington2	USA
+15627	Eurycea	bislineata		Willington2	USA
+15548	Desmognathus	fuscus		Gurleyville	USA
+15549	Desmognathus	fuscus		Gurleyville	USA
+15550	Desmognathus	fuscus		Gurleyville	USA
+15551	Desmognathus	fuscus		Gurleyville	USA
+15552	Desmognathus	fuscus		Gurleyville	USA
+15553	Desmognathus	fuscus		Gurleyville	USA
+15554	Desmognathus	fuscus		Gurleyville	USA
+15555	Desmognathus	fuscus		Gurleyville	USA
+15556	Desmognathus	fuscus		Gurleyville	USA
+15557	Desmognathus	fuscus		Willington	USA
+15558	Desmognathus	fuscus		Willington	USA
+15559	Desmognathus	fuscus		Willington	USA
+15560	Desmognathus	fuscus		Willington	USA
+15561	Desmognathus	fuscus		Willington	USA
+15562	Desmognathus	fuscus		Willington	USA
+15563	Desmognathus	fuscus		Willington	USA
+15564	Desmognathus	fuscus		Willington	USA
+15565	Desmognathus	fuscus		Willington	USA
+15566	Desmognathus	fuscus		Willington	USA
+15567	Desmognathus	fuscus		Eastford	USA
+15568	Desmognathus	fuscus		Eastford2	USA
+15569	Desmognathus	fuscus		Eastford2	USA
+15570	Desmognathus	fuscus		Eastford2	USA
+15571	Desmognathus	fuscus		Eastford2	USA
+15764	Plethodon	cinereus		Hinckley	USA
+15765	Plethodon	cinereus		Hinckley	USA
+15766	Plethodon	cinereus		Hinckley	USA
+15767	Plethodon	cinereus		Hinckley	USA
+15768	Plethodon	cinereus		Hinckley	USA
+15769	Plethodon	cinereus		Hinckley	USA
+15770	Plethodon	cinereus		Hinckley	USA
+15771	Plethodon	cinereus		Hinckley	USA
+15772	Plethodon	cinereus		Hinckley	USA
+15773	Plethodon	cinereus		Hinckley	USA
+15774	Plethodon	cinereus		Hinckley	USA
+15775	Plethodon	cinereus		Hinckley	USA
+15776	Plethodon	cinereus		Hinckley	USA
+15777	Plethodon	cinereus		Hinckley	USA
+15778	Plethodon	cinereus		Hinckley	USA
+15779	Plethodon	cinereus		Hinckley	USA
+15780	Plethodon	cinereus		Hinckley	USA
+15781	Plethodon	cinereus		Hinckley	USA
+15782	Plethodon	cinereus		Hinckley	USA
+15783	Plethodon	cinereus		Hinckley	USA
+15817	Plethodon	cinereus		Berlin Heights2	USA
+15818	Plethodon	cinereus		Berlin Heights2	USA
+15819	Plethodon	cinereus		Berlin Heights2	USA
+15820	Plethodon	cinereus		Berlin Heights2	USA
+15821	Plethodon	cinereus		Berlin Heights2	USA
+15822	Plethodon	cinereus		Berlin Heights2	USA
+15823	Plethodon	cinereus		Berlin Heights2	USA
+15824	Plethodon	cinereus		Berlin Heights2	USA
+15825	Plethodon	cinereus		Berlin Heights2	USA
+15826	Plethodon	cinereus		Berlin Heights2	USA
+15827	Plethodon	cinereus		Berlin Heights2	USA
+15828	Plethodon	cinereus		Berlin Heights2	USA
+15829	Plethodon	cinereus		Berlin Heights2	USA
+15830	Plethodon	cinereus		Berlin Heights2	USA
+15831	Plethodon	cinereus		Berlin Heights2	USA
+15832	Plethodon	cinereus		Berlin Heights2	USA
+15833	Plethodon	cinereus		Berlin Heights2	USA
+15834	Plethodon	cinereus		Berlin Heights2	USA
+15835	Plethodon	cinereus		Berlin Heights2	USA
+15836	Plethodon	cinereus		Berlin Heights2	USA
+15916	Plethodon	cinereus		Mansfield	USA
+15917	Plethodon	cinereus		Mansfield	USA
+15918	Plethodon	cinereus		Mansfield	USA
+15919	Plethodon	cinereus		Mansfield	USA
+15920	Plethodon	cinereus		Mansfield	USA
+15921	Plethodon	cinereus		Mansfield	USA
+15922	Plethodon	cinereus		Mansfield	USA
+15923	Plethodon	cinereus		Mansfield	USA
+15924	Plethodon	cinereus		Mansfield	USA
+15925	Plethodon	cinereus		Mansfield	USA
+15926	Plethodon	cinereus		Mansfield	USA
+15927	Plethodon	cinereus		Mansfield	USA
+15928	Plethodon	cinereus		Mansfield	USA
+15929	Plethodon	cinereus		Mansfield	USA
+15930	Plethodon	cinereus		Mansfield	USA
+15931	Plethodon	cinereus		Mansfield	USA
+15932	Plethodon	cinereus		Mansfield	USA
+15933	Plethodon	cinereus		Mansfield	USA
+15934	Plethodon	cinereus		Mansfield	USA
+15935	Plethodon	cinereus		Mansfield	USA
+13100	Triturus	karelinii		Chiantba Lake2	Georgia
+13101	Triturus	karelinii		Chiantba Lake2	Georgia
+13102	Triturus	karelinii		Chiantba Lake2	Georgia
+13103	Triturus	karelinii		Chiantba Lake2	Georgia
+13104	Triturus	karelinii		Chiantba Lake2	Georgia
+13105	Triturus	karelinii		Chiantba Lake2	Georgia
+13106	Triturus	karelinii		Chiantba Lake2	Georgia
+13107	Triturus	karelinii		Chiantba Lake2	Georgia
+13108	Triturus	karelinii		Chiantba Lake2	Georgia
+13109	Triturus	karelinii		Chiantba Lake2	Georgia
