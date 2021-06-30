@@ -364,21 +364,21 @@ if(file.exists(gen_file)){
 }
 
 
-##List of typed individuals ####
-##ids of individuals genotyped in ex2, ex3 and BRD2
-# ids_gen <- gen %>% select(id, exon, sp_abr1) %>% distinct()
-# exons <- ids_gen %>% pull(exon) %>% unique()
-# typed <- NULL
-# for (s in sp_abr1) {
-#   temp1 <- ids_gen %>% filter(sp_abr1 == s)
-#   typed_ex <- NULL
-#   for (e in exons) {
-#     ids <- temp1 %>% filter(exon == e) %>% pull(id) %>% unique() %>% sort()
-#     typed_ex[[e]] <- ids
-#   }
-#   typed[[s]] <- typed_ex
-# }
-# saveRDS(typed, "Ids_typed_amplicons.rds")  
+#List of typed individuals ####
+#ids of individuals genotyped in ex2, ex3 and BRD2
+ids_gen <- gen %>% select(id, exon, sp_abr1) %>% distinct()
+exons <- ids_gen %>% pull(exon) %>% unique()
+typed <- NULL
+for (s in sp_abr1) {
+  temp1 <- ids_gen %>% filter(sp_abr1 == s)
+  typed_ex <- NULL
+  for (e in exons) {
+    ids <- temp1 %>% filter(exon == e) %>% pull(id) %>% unique() %>% sort()
+    typed_ex[[e]] <- ids
+  }
+  typed[[s]] <- typed_ex
+}
+saveRDS(typed, "Ids_typed_amplicons.rds")
 
 # #Phylogeny-based potentially nonfunctional alleles ####
 # #Getting list of all potentially nonfunctional alleles
@@ -414,12 +414,12 @@ if(file.exists(gen_file)){
 # saveRDS(remove_from_fun, "Alleles_to_remove_from_functional.rds")
 
 
-##Get sample sizes of 15 ####
+#Get sample sizes of 15 ####
 
-# typed <- readRDS("Ids_typed_MIPs_amplicons.rds")
-# mhc15 <- lapply(typed, "[[", "mhc15") %>% unlist()
-# brd15 <- lapply(typed, "[[", "brd15") %>% unlist()
-# gen15 <- gen %>% filter((exon %in% c("2", "3") & id %in% mhc15) | (exon == "brd2" & id %in% brd15))
+typed <- readRDS("Ids_typed_MIPs_amplicons.rds")
+mhc15 <- lapply(typed, "[[", "mhc15") %>% unlist()
+brd15 <- lapply(typed, "[[", "brd15") %>% unlist()
+gen15 <- gen %>% filter((exon %in% c("2", "3") & id %in% mhc15) | (exon == "brd2" & id %in% brd15))
 
 #get datasets with only classical or classical/intermediate alleles
 #in both cases full BRD data is retained
@@ -433,7 +433,7 @@ gen_class_intermed <- gen_c_n %>% filter(!grepl("nonclass", class_nonclass)) %>%
 
 #Calculate diversity and save reslts ####
 #for (dataset in c("gen", "gen15")){
-for (dataset in c("gen_class", "gen_class_intermed")) {
+for (dataset in c("gen", "gen15", "gen_class", "gen_class_intermed")) {
   g <- eval(parse(text = dataset))
   suff <- case_when(
     dataset == "gen" ~ "",

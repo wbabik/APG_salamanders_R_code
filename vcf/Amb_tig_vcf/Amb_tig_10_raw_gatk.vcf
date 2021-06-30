@@ -1,0 +1,49 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##FILTER=<ID=LowQual,Description="Low quality">
+##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths for the ref and alt alleles in the order listed">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Approximate read depth (reads with MQ=255 or with bad mates are filtered)">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Genotype Quality">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=MLPSAC,Number=A,Type=Integer,Description="Maximum likelihood expectation (MLE) for the alternate allele count, in the same order as listed, for each individual sample">
+##FORMAT=<ID=MLPSAF,Number=A,Type=Float,Description="Maximum likelihood expectation (MLE) for the alternate allele fraction, in the same order as listed, for each individual sample">
+##FORMAT=<ID=PL,Number=G,Type=Integer,Description="Normalized, Phred-scaled likelihoods for genotypes as defined in the VCF specification">
+##GATKCommandLine.UnifiedGenotyper=<ID=UnifiedGenotyper,Version=3.6-0-g89b7209,Date="Wed Sep 23 10:17:09 CEST 2020",Epoch=1600849029281,CommandLineOptions="analysis_type=UnifiedGenotyper input_file=[10.list] showFullBamList=false read_buffer_size=null read_filter=[] disable_read_filter=[] intervals=null excludeIntervals=null interval_set_rule=UNION interval_merging=ALL interval_padding=0 reference_sequence=Ambystoma_APG_Controls_References_withNs_Atig.fasta nonDeterministicRandomSeed=false disableDithering=false maxRuntime=-1 maxRuntimeUnits=MINUTES downsampling_type=BY_SAMPLE downsample_to_fraction=1.0 downsample_to_coverage=null baq=OFF baqGapOpenPenalty=40.0 refactor_NDN_cigar_string=false fix_misencoded_quality_scores=false allow_potentially_misencoded_quality_scores=false useOriginalQualities=false defaultBaseQualities=-1 performanceLog=null BQSR=null quantize_quals=0 static_quantized_quals=null round_down_quantized=false disable_indel_quals=false emit_original_quals=false preserve_qscores_less_than=6 globalQScorePrior=-1.0 validation_strictness=SILENT remove_program_records=false keep_program_records=false sample_rename_mapping_file=null unsafe=null disable_auto_index_creation_and_locking_when_reading_rods=false no_cmdline_in_header=false sites_only=false never_trim_vcf_format_field=false bcf=false bam_compression=null simplifyBAM=false disable_bam_indexing=false generate_md5=false num_threads=1 num_cpu_threads_per_data_thread=15 num_io_threads=0 monitorThreadEfficiency=false num_bam_file_handles=null read_group_black_list=null pedigree=[] pedigreeString=[] pedigreeValidationType=STRICT allow_intervals_with_unindexed_bam=false generateShadowBCF=false variant_index_type=DYNAMIC_SEEK variant_index_parameter=-1 reference_window_stop=0 phone_home= gatk_key=null tag=NA logging_level=INFO log_to_file=null help=false version=false genotype_likelihoods_model=SNP pcr_error_rate=1.0E-4 computeSLOD=false pair_hmm_implementation=LOGLESS_CACHING min_base_quality_score=20 max_deletion_fraction=0.05 min_indel_count_for_genotyping=5 min_indel_fraction_per_sample=0.25 indelGapContinuationPenalty=10 indelGapOpenPenalty=45 indelHaplotypeSize=80 indelDebug=false ignoreSNPAlleles=false allReadsSP=false ignoreLaneInfo=false reference_sample_calls=(RodBinding name= source=UNBOUND) reference_sample_name=null min_quality_score=1 max_quality_score=40 site_quality_prior=20 min_power_threshold_for_calling=0.95 annotateNDA=false heterozygosity=0.05 indel_heterozygosity=1.25E-4 standard_min_confidence_threshold_for_calling=20.0 standard_min_confidence_threshold_for_emitting=20.0 max_alternate_alleles=4 max_num_PL_values=100 input_prior=[] sample_ploidy=4 genotyping_mode=DISCOVERY alleles=(RodBinding name= source=UNBOUND) contamination_fraction_to_filter=0.0 contamination_fraction_per_sample_file=null p_nonref_model=null exactcallslog=null output_mode=EMIT_VARIANTS_ONLY allSitePLs=false dbsnp=(RodBinding name= source=UNBOUND) comp=[] out=/home/gemma.palomar/MIPanalysis/Amb_tig/results/SNPcall/./vcf/Amb_tig_10_raw_gatk.vcf onlyEmitSamples=[] debug_file=null metrics_file=null annotation=[] excludeAnnotation=[] filter_reads_with_N_cigar=false filter_mismatching_base_and_quals=false filter_bases_not_stored=false">
+##INFO=<ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes, for each ALT allele, in the same order as listed">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele Frequency, for each ALT allele, in the same order as listed">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">
+##INFO=<ID=BaseQRankSum,Number=1,Type=Float,Description="Z-score from Wilcoxon rank sum test of Alt Vs. Ref base qualities">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Approximate read depth; some reads may have been filtered">
+##INFO=<ID=DS,Number=0,Type=Flag,Description="Were any of the samples downsampled?">
+##INFO=<ID=Dels,Number=1,Type=Float,Description="Fraction of Reads Containing Spanning Deletions">
+##INFO=<ID=ExcessHet,Number=1,Type=Float,Description="Phred-scaled p-value for exact test of excess heterozygosity">
+##INFO=<ID=FS,Number=1,Type=Float,Description="Phred-scaled p-value using Fisher's exact test to detect strand bias">
+##INFO=<ID=HaplotypeScore,Number=1,Type=Float,Description="Consistency of the site with at most two segregating haplotypes">
+##INFO=<ID=InbreedingCoeff,Number=1,Type=Float,Description="Inbreeding coefficient as estimated from the genotype likelihoods per-sample when compared against the Hardy-Weinberg expectation">
+##INFO=<ID=MLEAC,Number=A,Type=Integer,Description="Maximum likelihood expectation (MLE) for the allele counts (not necessarily the same as the AC), for each ALT allele, in the same order as listed">
+##INFO=<ID=MLEAF,Number=A,Type=Float,Description="Maximum likelihood expectation (MLE) for the allele frequency (not necessarily the same as the AF), for each ALT allele, in the same order as listed">
+##INFO=<ID=MQ,Number=1,Type=Float,Description="RMS Mapping Quality">
+##INFO=<ID=MQ0,Number=1,Type=Integer,Description="Total Mapping Quality Zero Reads">
+##INFO=<ID=MQRankSum,Number=1,Type=Float,Description="Z-score From Wilcoxon rank sum test of Alt vs. Ref read mapping qualities">
+##INFO=<ID=QD,Number=1,Type=Float,Description="Variant Confidence/Quality by Depth">
+##INFO=<ID=RPA,Number=.,Type=Integer,Description="Number of times tandem repeat unit is repeated, for each allele (including reference)">
+##INFO=<ID=RU,Number=1,Type=String,Description="Tandem repeat unit (bases)">
+##INFO=<ID=ReadPosRankSum,Number=1,Type=Float,Description="Z-score from Wilcoxon rank sum test of Alt vs. Ref read position bias">
+##INFO=<ID=SOR,Number=1,Type=Float,Description="Symmetric Odds Ratio of 2x2 contingency table to detect strand bias">
+##INFO=<ID=STR,Number=0,Type=Flag,Description="Variant is a short tandem repeat">
+##contig=<ID=TAP1_Amb_tig,length=5613>
+##contig=<ID=TAP2_Amb_tig,length=6234>
+##contig=<ID=PSMB8_mixed,length=2735>
+##contig=<ID=PSMB9_,length=2637>
+##contig=<ID=TAPBP_Amb_tig,length=3894>
+##contig=<ID=KIFC1_Amb_tig,length=4325>
+##contig=<ID=RGL2_Amb_tig,length=4744>
+##contig=<ID=RXRBA_Amb_tig,length=3836>
+##contig=<ID=DAXX_Amb_tig,length=4926>
+##reference=file:///home/gemma.palomar/MIPanalysis/Amb_tig/results/SNPcall/Ambystoma_APG_Controls_References_withNs_Atig.fasta
+##bcftools_filterVersion=1.11+htslib-1.11
+##bcftools_filterCommand=filter -e QUAL<100 -Ov -o filtered/Amb_tig_10_raw_gatk.vcf Amb_tig_10_raw_gatk.vcf; Date=Thu Feb 18 14:02:41 2021
+##bcftools_filterCommand=filter -e QUAL<100 -Ov -o filtered/Amb_tig_10_raw_gatk.vcf Amb_tig_10_raw_gatk.vcf; Date=Thu Feb 18 15:06:10 2021
+##bcftools_filterCommand=filter -e QUAL<100 -Ov -o filtered/Amb_tig_10_raw_gatk.vcf Amb_tig_10_raw_gatk.vcf; Date=Tue Apr 20 11:34:52 2021
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	join_14799-amb	join_14800-amb	join_14801-amb	join_14802-amb	join_14803-amb	join_14804-amb	join_14805-amb	join_14806-amb	join_14807-amb	join_14808-amb	join_14809-amb	join_14810-amb	join_14811-amb	join_14812-amb	join_14813-amb	join_14814-amb	join_14815-amb	join_14816-amb	join_14817-amb	join_14818-amb	join_14819-amb	join_14820-amb	join_14821-amb	join_14822-amb	join_14823-amb	join_14824-amb	join_14825-amb	join_14826-amb	join_14827-amb	join_14828-amb
+DAXX_Amb_tig	1177	.	C	T	159102	PASS	AC=120;AF=1;AN=120;BaseQRankSum=-0.339;DP=3816;Dels=0;FS=0;HaplotypeScore=3.2832;MLEAC=120;MLEAF=1;MQ=41.99;MQ0=0;MQRankSum=-0.005;QD=28.33;ReadPosRankSum=-0.031;SOR=15.107	GT:AD:DP:GQ:PL	1/1/1/1:0,157:157:99:6628,939,470,195,0	1/1/1/1:0,125:125:99:5257,752,376,156,0	1/1/1/1:0,60:60:75:2512,361,181,75,0	1/1/1/1:0,106:106:99:4444,638,319,132,0	1/1/1/1:0,264:264:99:11116,1589,795,330,0	1/1/1/1:0,291:291:99:12175,1734,867,360,0	1/1/1/1:0,127:127:99:5311,758,379,157,0	1/1/1/1:0,49:49:61:2132,295,147,61,0	1/1/1/1:0,104:104:99:4355,626,313,130,0	1/1/1/1:0,43:43:54:1794,259,129,54,0	1/1/1/1:0,194:194:99:8121,1162,581,241,0	1/1/1/1:0,206:206:99:8379,1210,605,251,0	1/1/1/1:0,128:128:99:5432,771,385,160,0	1/1/1/1:1,241:242:99:9992,1391,677,261,0	1/1/1/1:0,143:143:99:5889,855,427,177,0	1/1/1/1:0,164:164:99:6810,975,488,202,0	1/1/1/1:0,140:140:99:5805,831,415,172,0	1/1/1/1:0,44:44:54:1812,259,129,54,0	1/1/1/1:0,104:104:99:4347,620,310,129,0	1/1/1/1:0,164:164:99:6862,981,491,204,0	1/1/1/1:0,160:160:99:6667,957,479,199,0	1/1/1/1:0,112:112:99:4674,668,334,139,0	1/1/1/1:0,121:121:99:5065,722,361,150,0	1/1/1/1:0,58:58:72:2469,349,175,72,0	1/1/1/1:0,129:129:99:5237,758,379,157,0	1/1/1/1:0,77:77:94:3167,451,226,94,0	1/1/1/1:0,91:91:99:3849,548,274,114,0	1/1/1/1:0,76:76:94:3139,451,226,94,0	1/1/1/1:0,56:56:70:2381,337,169,70,0	1/1/1/1:0,80:80:97:3285,470,235,97,0

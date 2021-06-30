@@ -166,7 +166,7 @@ ex3 <- d %>% filter(grepl("_ex3_", label)) %>%
   mutate(n_class_aa = vect_nclass(seq_aa, pos_ex3, aa_ex3),
          class_nonclass = ifelse(n_class_aa == 4, "class", ifelse(n_class_aa ==3, "intermed", "nonclass")))
 ex2_ex3 <- bind_rows(ex2, ex3)
-#saveRDS(select(ex2_ex3, label, class_nonclass), "ex2_ex3_class_nonclass_status.rds")
+saveRDS(select(ex2_ex3, label, class_nonclass), "ex2_ex3_class_nonclass_status.rds")
 
 
 # #summary of numbers and fractions of non-classical
