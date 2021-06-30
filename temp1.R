@@ -1,6 +1,7 @@
 library(seqinr)
 library(ape)
 library(tidyverse)
+###kjkjkjk
 
 tempTAPs <- function(t, categ = "raw_MIP_seg_min20cov", fr = frame, stop.rm = TRUE){
   #gets rds produced by R_microhaplotypes.R
