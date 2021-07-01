@@ -366,34 +366,34 @@ taxa <- c("Amb_tex", "Amb_tig", "And_dav", "Bat_att", "Bat_nig", "Des_fus", "Eur
           "Plet_cin", "Pleu_wal", "Prot_ang", "Sal_sal", "Tri_cri", "Tri_dob", "Tri_iva", "Tri_kar", "Tri_mac", "Tri_mar", "Tri_pyg")
 
 
-# #Identify MIPs with median coverage < 20 within species ####
-# #and outputs modified version as MIPnumber_min20cov.txt to be used by bash script 
-# #normally doesn't have to be re-run
-# lows <- NULL
-# for (t in taxa) {
-#   b <- read_microhap_rds(paste0("rds/", t, "_final.rds"))
-#   d <- b %>% ungroup() %>% select(group, MIP, id, id_loc_cov) %>% distinct()
-#   e <- d %>% group_by(group, MIP) %>% summarise(mean = mean(id_loc_cov),
-#                                                 median = median(id_loc_cov))
-#   hig <- e %>% filter(median >=20)
-#   low <- e %>% filter(median < 20)
-#   lows[[t]] <- low
-# }
-# 
-# lowsdf <- bind_rows(lows) %>% mutate(sp_mip = paste(group, MIP, sep = "_"))
-# g <- lowsdf %>% group_by(group) %>% summarise(n = n())
-# 
-# #df with MIPs to exclude
-# MIPs_to_exclude <- lowsdf %>% select(group, MIP) %>% rename("species" = "group")
-# saveRDS(MIPs_to_exclude, "MIPs_to_exclude_min20cov.rds")
-# 
-# MIPnumber <- read_tsv("MIPnumber.txt", col_names = c("gene", "start", "stop", "MIP", "tax")) %>%
-#   mutate(sp_mip = paste(tax, MIP, sep = "_"))
-# 
-# to_excl <- lowsdf %>% pull(sp_mip)
-# 
-# MIPnumber_min20 <- MIPnumber %>% filter(! sp_mip %in% to_excl)
-# write_tsv(select(MIPnumber_min20, -sp_mip), "MIPnumber_min20cov.txt", col_names = FALSE)
+#Identify MIPs with median coverage < 20 within species ####
+#and outputs modified version as MIPnumber_min20cov.txt to be used by bash script 
+#normally doesn't have to be re-run
+lows <- NULL
+for (t in taxa) {
+  b <- read_microhap_rds(paste0("rds/", t, "_final.rds"))
+  d <- b %>% ungroup() %>% select(group, MIP, id, id_loc_cov) %>% distinct()
+  e <- d %>% group_by(group, MIP) %>% summarise(mean = mean(id_loc_cov),
+                                                median = median(id_loc_cov))
+  hig <- e %>% filter(median >=20)
+  low <- e %>% filter(median < 20)
+  lows[[t]] <- low
+}
+
+lowsdf <- bind_rows(lows) %>% mutate(sp_mip = paste(group, MIP, sep = "_"))
+g <- lowsdf %>% group_by(group) %>% summarise(n = n())
+
+#df with MIPs to exclude
+MIPs_to_exclude <- lowsdf %>% select(group, MIP) %>% rename("species" = "group")
+saveRDS(MIPs_to_exclude, "MIPs_to_exclude_min20cov.rds")
+
+MIPnumber <- read_tsv("MIPnumber.txt", col_names = c("gene", "start", "stop", "MIP", "tax")) %>%
+  mutate(sp_mip = paste(tax, MIP, sep = "_"))
+
+to_excl <- lowsdf %>% pull(sp_mip)
+
+MIPnumber_min20 <- MIPnumber %>% filter(! sp_mip %in% to_excl)
+write_tsv(select(MIPnumber_min20, -sp_mip), "MIPnumber_min20cov.txt", col_names = FALSE)
 
 
 # #Drops less covered duplicate and saves the resulting list of ids ####

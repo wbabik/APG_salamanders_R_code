@@ -7,6 +7,7 @@ library(ggpubr)
 library(hillR)
 library(seqRFLP)
 library(phytools)
+library(seqinr)
 library(tidyverse)
 
 
@@ -437,9 +438,9 @@ for (dataset in c("gen", "gen15", "gen_class", "gen_class_intermed")) {
   g <- eval(parse(text = dataset))
   suff <- case_when(
     dataset == "gen" ~ "",
-    dataset == "gen15" ~ "gen15",
-    dataset == "gen_class" ~ "classical",
-    dataset == "gen_class_intermed" ~ "classical_and_intermediate"
+    dataset == "gen15" ~ "_15_best_covered",
+    dataset == "gen_class" ~ "_classical",
+    dataset == "gen_class_intermed" ~ "_classical_and_intermediate"
   )
   a <- lapply(sp_abr1, get_div_MHCBRD, fr = g)
   sp <- lapply(a, "[[", "sp_div")
@@ -451,10 +452,10 @@ for (dataset in c("gen", "gen15", "gen_class", "gen_class_intermed")) {
 }
 
 
-##Df aligned full codon seq of functional alleles ####
-#gen_funct <- gen %>% filter(funct == "y") %>% mutate(len = nchar(str_replace_all(seq_codon, "-", ""))) %>%
-#  select(genus, species, exon, label, seq_codon, len) %>% distinct() %>% arrange(genus, species, label)
-#saveRDS(gen_funct, "Funct_alleles_df_BRD2_MHC_ex2_ex3_all_genera.rds")
+#Df aligned full codon seq of functional alleles ####
+gen_funct <- gen %>% filter(funct == "y") %>% mutate(len = nchar(str_replace_all(seq_codon, "-", ""))) %>%
+ select(genus, species, exon, label, seq_codon, len) %>% distinct() %>% arrange(genus, species, label)
+saveRDS(gen_funct, "Funct_alleles_df_BRD2_MHC_ex2_ex3_all_genera.rds")
 
 #Fasta alignments of functional alleles ####
 # #separate file for each species/exon combination

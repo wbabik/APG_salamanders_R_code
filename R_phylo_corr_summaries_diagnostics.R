@@ -51,8 +51,7 @@ get_mod_characteristics <- function(pgls_file) {
     arrange(predictor, response, covariate, diversity, distance, q) %>%
     mutate(distance = ifelse(distance == "codon", "dS", distance))
   
-  #Technically, for full data this is Table S9
-  #and for 15 best
+  #Technically, these are tables S10, S11, and S12
   write_lnx_head(model_characteristics, paste0("model_characteristics_", corename, ".txt"))
 }
 
@@ -85,14 +84,14 @@ plot_diag <- function(t, diag, suff) {
 #get text files with model characteristics
 pgls_files <- c("PGLS_modeling_results.rds", 
                 "PGLS_modeling_results_15_best_covered.rds", 
-                "PGLS_modeling_resultsclassical_and_intermediate.rds", 
-                "PGLS_modeling_resultsclassical.rds")
+                "PGLS_modeling_results_classical_and_intermediate.rds", 
+                "PGLS_modeling_results_classical.rds")
 
 
 lapply(pgls_files, get_mod_characteristics)
 
 
-pg <- readRDS("PGLS_modeling_results.rds")
+pg <- readRDS("PGLS_modeling_results.rds") %>% filter(x != "ex3")
 
 to_diag <- pg %>% filter(!is.na(cov)) %>% 
   select(x, y, cov, seq_type, div_type, q, mod)

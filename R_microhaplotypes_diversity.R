@@ -1,7 +1,7 @@
-library(tidyverse)
 library(seqinr)
 library(ape)
 library(hillR)
+library(tidyverse)
 
 # The main function is get_div
 # - gets rds produced by R_microhaplotypes.R
@@ -253,6 +253,7 @@ get_div <- function(t, categ = "raw_MIP_seg_min20cov", fr = frame, stop.rm = TRU
   }
   sp_div <- bind_rows(alpha_gamma)
   ind_div <- bind_rows(individual_alpha)
+  dir.create("out", showWarnings = FALSE)
   saveRDS(sp_div, paste0("out/", t, "_sp_div_", categ, ".rds"))
   saveRDS(ind_div, paste0("out/", t, "_individual_alphadiv_", categ, ".rds"))
   saveRDS(aa_sequences,  paste0("out/", t, "_aa_seq_segments_", categ, ".rds"))

@@ -93,7 +93,14 @@ aa_seq <- bind_rows(df_list)
 aa_pos <- cds %>% group_by(gene_sym, species) %>% mutate(res = cumsum(frame == 1))
 
 #reads TAP12 aa segment haplotypes
-aa_seg <- readRDS("rds/All_species_aa_segments_TAP12.rds")
+get_tap_seg <- function(s) {
+  seg_tap12 <- readRDS(paste0("out/", s, "_aa_seq_segments_raw_MIP_seg_min20cov.rds")) %>% 
+    bind_rows() %>% 
+    filter(gene_sym == "TAP1" | gene_sym == "TAP2")
+  return(seg_tap12)
+}
+aa_seg <- lapply(sp, get_tap_seg) %>% bind_rows()
+
 
 #ads start end amino acid positions for each segment
 aa_seg_aa_pos <- aa_seg %>% mutate(aa_start_stop = res_pos_v(gs = gene_sym, sp = species, s = seg_start_ref, e = seg_end_ref)) %>% 

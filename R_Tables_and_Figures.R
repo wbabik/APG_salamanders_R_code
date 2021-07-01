@@ -130,7 +130,22 @@ table_S8 <- div_sum %>% select(-c(sp_abr1, reseq_len, taxon)) %>% select(family:
   rename(category = class, gene = gene_sym, distance = seq_type, 
          `within-individual (alpha) dversity`= PD_alpha,
          `species-wide (gamma) diversity` = PD_gamma) %>% 
-  filter(distance != "DNA") %>% mutate(distance = ifelse(distance=="codon", "dS", distance)) %>% 
+  filter(distance != "DNA", category !="ex3") %>% mutate(distance = ifelse(distance=="codon", "dS", distance)) %>% 
   arrange(category, gene, distance, q, family, genus, species)
   
 write_tsv(table_S8, "Table_S8.txt")
+
+
+#Tables S9-S11 modeling
+s9 <- read_tsv("model_characteristics_PGLS_modeling_results.txt") %>% mutate(table = "s9")
+s10 <- read_tsv("model_characteristics_PGLS_modeling_results_15_best_covered.txt") %>% mutate(table = "s10")
+s11 <- read_tsv("model_characteristics_PGLS_modeling_results_classical.txt") %>%  mutate(table = "s11")
+ss <- bind_rows(s9, s10, s11) %>%   filter(diversity == "gamma" | (diversity == "alpha" & q == 0)) %>% 
+  filter(predictor != "ex3", response != "ex3") %>%
+  arrange(table, predictor, response, diversity, distance, q, parameter)
+
+ss %>% filter(table == "s9") %>% select(-table) %>% write_tsv("Table_S9.txt")
+
+ss %>% filter(table == "s10") %>% select(-table) %>% write_tsv("Table_S10.txt")
+
+ss %>% filter(table == "s11") %>% select(-table) %>% write_tsv("Table_S11.txt")

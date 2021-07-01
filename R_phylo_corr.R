@@ -159,10 +159,10 @@ cds <- readRDS("CDS_lengths.rds")
 brd_mhc_al <- readRDS("Funct_alleles_df_BRD2_MHC_ex2_ex3_all_genera.rds")
 tree <- read.nexus("30_salamanders_timetree.tre")
 
-for (suff in c("", "_15_best_covered", "classical", "classical_and_intermediate")) {
+for (suff in c("", "_15_best_covered", "_classical", "_classical_and_intermediate")) {
   #"classical_and_intermediate" and "classical" use the full MIP dataset, 
   #they diverge only in MHC datasets
-  if (suff == "classical_and_intermediate" || suff == "classical") {
+  if (suff == "_classical_and_intermediate" || suff == "_classical") {
     d <- readRDS(paste0("All_sp_div_excluding_stop_min20cov.rds"))
   } else {
     d <- readRDS(paste0("All_sp_div_excluding_stop_min20cov", suff, ".rds"))
